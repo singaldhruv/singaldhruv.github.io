@@ -36,7 +36,7 @@
       <pubDate>Sat, 20 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>https://singaldhruv.github.io/home/about/</guid>
-      <description>Hi! I am a first year PhD student in Finance and Economics at Columbia Business School. I am interested in exploring research questions at the intersection of Finance and Computer Science. Previously, I was a research fellow at Adobe Research, Bangalore, where I worked on research projects in Machine Learning, Computer Vision, Data Mining and Marketing.
+      <description>Hi! I am a first year PhD student in Finance and Economics at Columbia Business School. I am interested in exploring research questions at the intersection of Finance and Computer Science. Previously, I was a research fellow at Adobe Research, Bangalore where I worked on research projects in Machine Learning, Computer Vision, Data Mining and Marketing.
 I graduated from Department of Computer Science and Engineering, IIT Kanpur in 2016. At IIT Kanpur, I worked on research projects in Machine Learning, Algorithmic Game Theory and Program Analysis.</description>
     </item>
     
@@ -56,6 +56,16 @@ I graduated from Department of Computer Science and Engineering, IIT Kanpur in 2
       
       <guid>https://singaldhruv.github.io/home/publications/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://singaldhruv.github.io/home/teaching/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://singaldhruv.github.io/home/teaching/</guid>
+      <description> IIT Kanpur ESC101: Fundamentals of Computing (Fall 2015 and Spring 2016) Worked with faculty instructors - Professor Nitin Saxena (Fall) and Professor Sunil Simon (Spring) for the core institute course, ESC101 Fundamentals of Computing. Responsibilities included:
+ Supervised weekly tutorials and problem solving sessions Assisted the instructors in designing course material, quizzes, labs and exams  </description>
     </item>
     
     <item>
