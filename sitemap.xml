@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://singaldhruv.github.io/publication/lpar2018/</loc>
+      <lastmod>2018-10-23T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://singaldhruv.github.io/publication/</loc>
       <lastmod>2018-10-01T00:00:00-04:00</lastmod>
     </url>
@@ -45,6 +53,15 @@
     
     <url>
     
+      <loc>https://singaldhruv.github.io/tags/ll1/</loc>
+      <lastmod>2018-10-23T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://singaldhruv.github.io/publication_types/</loc>
       <priority>0</priority>
     </url>
@@ -53,7 +70,17 @@
     
     <url>
     
+      <loc>https://singaldhruv.github.io/tags/smt/</loc>
+      <lastmod>2018-10-23T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://singaldhruv.github.io/tags/</loc>
+      <lastmod>2018-10-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -63,6 +90,15 @@
     
       <loc>https://singaldhruv.github.io/categories/computer-vision/</loc>
       <lastmod>2017-10-20T17:22:50-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://singaldhruv.github.io/tags/constraint-solving/</loc>
+      <lastmod>2018-10-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -117,6 +153,24 @@
     
       <loc>https://singaldhruv.github.io/tags/online-advertising/</loc>
       <lastmod>2018-08-20T17:22:50-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://singaldhruv.github.io/tags/parsing/</loc>
+      <lastmod>2018-10-23T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://singaldhruv.github.io/categories/parsing/</loc>
+      <lastmod>2018-10-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
