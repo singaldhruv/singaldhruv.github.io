@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>constraint solving on Dhruv Singal</title>
-    <link>https://singaldhruv.github.io/tags/constraint-solving/</link>
-    <description>Recent content in constraint solving on Dhruv Singal</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Dhruv Singal, 2018</copyright>
-    <lastBuildDate>Tue, 23 Oct 2018 00:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="https://singaldhruv.github.io/tags/constraint-solving/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>constraint solving | Academic</title>
+    <link>/tags/constraint-solving/</link>
+      <atom:link href="/tags/constraint-solving/index.xml" rel="self" type="application/rss+xml" />
+    <description>constraint solving</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Oct 2018 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>constraint solving</title>
+      <link>/tags/constraint-solving/</link>
+    </image>
     
     <item>
       <title>Parse Condition: Symbolic Encoding of LL(1) Parsing</title>
-      <link>https://singaldhruv.github.io/publication/lpar2018/</link>
+      <link>/publication/lpar2018/</link>
       <pubDate>Tue, 23 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://singaldhruv.github.io/publication/lpar2018/</guid>
+      <guid>/publication/lpar2018/</guid>
       <description></description>
     </item>
     

@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>online advertising on Dhruv Singal</title>
-    <link>https://singaldhruv.github.io/tags/online-advertising/</link>
-    <description>Recent content in online advertising on Dhruv Singal</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Dhruv Singal, 2018</copyright>
-    <lastBuildDate>Mon, 20 Aug 2018 17:22:50 -0400</lastBuildDate>
-    
-	<atom:link href="https://singaldhruv.github.io/tags/online-advertising/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>online advertising | Academic</title>
+    <link>/tags/online-advertising/</link>
+      <atom:link href="/tags/online-advertising/index.xml" rel="self" type="application/rss+xml" />
+    <description>online advertising</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Aug 2018 17:22:50 -0400</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>online advertising</title>
+      <link>/tags/online-advertising/</link>
+    </image>
     
     <item>
       <title>Forecasting Granular Audience Size for Online Advertising</title>
-      <link>https://singaldhruv.github.io/publication/adkdd2018/</link>
+      <link>/publication/adkdd2018/</link>
       <pubDate>Mon, 20 Aug 2018 17:22:50 -0400</pubDate>
-      
-      <guid>https://singaldhruv.github.io/publication/adkdd2018/</guid>
+      <guid>/publication/adkdd2018/</guid>
       <description></description>
     </item>
     

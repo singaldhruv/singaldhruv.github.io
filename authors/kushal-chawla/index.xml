@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kushal Chawla | Academic</title>
+    <link>/authors/kushal-chawla/</link>
+      <atom:link href="/authors/kushal-chawla/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kushal Chawla</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Aug 2018 17:22:50 -0400</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Kushal Chawla</title>
+      <link>/authors/kushal-chawla/</link>
+    </image>
+    
+    <item>
+      <title>Forecasting Granular Audience Size for Online Advertising</title>
+      <link>/publication/adkdd2018/</link>
+      <pubDate>Mon, 20 Aug 2018 17:22:50 -0400</pubDate>
+      <guid>/publication/adkdd2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
