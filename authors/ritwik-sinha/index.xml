@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ritwik Sinha | Dhruv Singal</title>
+    <link>https://singaldhruv.github.io/authors/ritwik-sinha/</link>
+      <atom:link href="https://singaldhruv.github.io/authors/ritwik-sinha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ritwik Sinha</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Dhruv Singal, 2020</copyright><lastBuildDate>Mon, 09 Dec 2019 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://singaldhruv.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ritwik Sinha</title>
+      <link>https://singaldhruv.github.io/authors/ritwik-sinha/</link>
+    </image>
+    
+    <item>
+      <title>RAPID: Rapid and Precise Interpretable Decision Sets</title>
+      <link>https://singaldhruv.github.io/publication/bigdata2019/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 -0400</pubDate>
+      <guid>https://singaldhruv.github.io/publication/bigdata2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecasting Granular Audience Size for Online Advertising</title>
+      <link>https://singaldhruv.github.io/publication/adkdd2018/</link>
+      <pubDate>Mon, 20 Aug 2018 17:22:50 -0400</pubDate>
+      <guid>https://singaldhruv.github.io/publication/adkdd2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
